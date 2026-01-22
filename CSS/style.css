@@ -1,0 +1,53 @@
+/* RESET BÁSICO */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BANNER */
+.banner {
+  width: 120%;
+  max-width: 500px;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: 12px;
+  animation: aparecer 1.2s ease-out;
+}
+
+/* IMAGEN */
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* TEXTO DEBAJO */
+.texto-banner {
+  text-align: center;
+  padding: 5    px;
+  background-color: #111;
+  color: white;
+}
+/* Animacion */
+
+@keyframes aparecer {
+  from {
+    opacity: 0;
+    transform: scale(1.05);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .texto-banner h1 {
+    font-size: 1.5rem;
+  }
+
+  .texto-banner p {
+    font-size: 1rem;
+  }
+}
