@@ -1,0 +1,46 @@
+
+html, body {
+      height: 100%;
+      margin: 0;
+    }
+
+
+    @media (max-width: 768px){
+      .body{
+        background-position: top;
+      }
+    }
+
+
+    h1{
+      color: white;
+    }
+     h2{
+      color: black;
+    }
+
+    h3 {
+        color: black;
+    }
+    p {
+      color: black;
+    }
+   
+
+    /* Separacion entre contenedores */
+    .contenedor{
+      margin: 15px;
+      padding: 50px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      display: grid;  
+      gap: 10px;
+    }
+    .card{
+      margin: 15px;
+      padding: 50px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px black;
+      background-color: #fff;
+    }
+   

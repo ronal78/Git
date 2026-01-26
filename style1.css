@@ -1,3 +1,13 @@
+
+  h1{
+      color: white;
+    }
+
+
+  p {
+      color: white;
+    }
+
 /* RESET BÁSICO */
 * {
   margin: 0;
@@ -29,6 +39,13 @@
   background-color: #111;
   color: white;
 }
+.card{
+      margin: 15px;
+      padding: 50px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px black;
+      background-color: black;
+    }
 /* Animacion */
 
 @keyframes aparecer {
@@ -50,4 +67,8 @@
   .texto-banner p {
     font-size: 1rem;
   }
+
+   
+
+  
 }
