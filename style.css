@@ -72,7 +72,7 @@ img {
 }
 
 .menu .navbar ul li a:hover{
-    color: #C9A538;
+    color: rgb(243, 212, 11);
 
 }
 
@@ -124,12 +124,12 @@ img {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #FFBD4C;
+        background-color: gray;
         display: none;
     }
 
     .menu .navbar ul li a:hover{
-        color: #2C2C2C;
+        color:  rgb(243, 212, 11);
     }
 
     .menu .navbar ul li{
