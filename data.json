@@ -1,0 +1,74 @@
+{
+  "mis_experiencias": [
+    {
+      "empresa": "McDonald's",
+      "puesto": "Técnico en Sistemas",
+      "actividades": [
+        "Mantenimiento preventivo y correctivo a equipos informáticos",
+        "Configuración, mantenimiento y optimización de redes",
+        "Instalación y configuración de dispositivos periféricos como impresoras y fotocopiadoras"
+      ]
+    },
+    {
+      "empresa": "Contraloría del Estado de Michoacán",
+      "puesto": "Técnico en Informática",
+      "actividades": [
+        "Instalación y configuración de equipos informáticos",
+        "Configuración de dispositivos y elementos de red",
+        "Apoyo al administrador de sistemas en el despliegue de infraestructura digital",
+        "Sustitución de equipos o componentes de hardware averiados"
+      ]
+    },
+    {
+      "empresa": "Facultad de Contaduría y Ciencias Administrativas (FCCA)",
+      "puesto": "Auxiliar de Sistemas",
+      "actividades": [
+        "Instalación del sistema operativo Debian GNU/Linux en un servidor",
+        "Configuración del sistema operativo Debian GNU/Linux",
+        "Mantenimiento del sistema operativo Debian GNU/Linux"
+      ]
+    }
+  ],
+  "educacion": [
+    {
+      "grado": "Licenciatura en Informática Administrativa",
+      "institucion": "Universidad Michoacana de San Nicolás de Hidalgo",
+      "periodo": "2019-2023",
+      "promedio": 9.1
+    }
+  ],
+  "proyectos_personales": [
+    {
+      "nombre": "Sitio web hospitalario con base de datos MySQL",
+      "institucion": "Facultad de Contaduría y Ciencias Administrativas",
+      "descripcion": "Desarrollo de un sitio web para un hospital, uno de los primeros proyectos realizados durante la formación universitaria."
+    },
+    {
+      "nombre": "Infraestructura tecnológica para la verificación de autenticidad de documentos digitales",
+      "institucion": "Facultad de Contaduría y Ciencias Administrativas",
+      "descripcion": [
+        "Criptografía simétrica y asimétrica",
+        "Creación de llaves mediante GnuPG",
+        "Análisis de ataques cibernéticos",
+        "Análisis de bitácoras de servidor",
+        "Mitigación de ataques"
+      ]
+    }
+  ],
+  "habilidades_tecnicas": [
+    "Seguridad informática",
+    "Soporte técnico"
+  ],
+  "certificaciones": [
+    {
+      "nombre": "Introducción a Linux",
+      "institucion": "Cisco Networking Academy",
+      "fecha": "Febrero 2022"
+    },
+    {
+      "nombre": "Introducción a la Ciberseguridad",
+      "institucion": "Cisco Networking Academy",
+      "fecha": "Abril 2023"
+    }
+  ]
+}
